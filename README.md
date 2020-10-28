@@ -1,2 +1,2 @@
-# LearnTerrafrom
+# LearnTerraform
 Terraform learning materials
